@@ -1,0 +1,3 @@
+C:\Users\evank\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.njsproj.AssemblyReference.cache
+C:\Users\evank\source\repos\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.njsproj.CoreCompileInputs.cache
+C:\Users\evank\source\repos\RockPaperScissors\RockPaperScissors\bin\Microsoft.NodejsTools.WebRole.dll
